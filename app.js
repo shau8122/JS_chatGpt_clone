@@ -47,3 +47,4 @@ async function getMassage() {
 }
 submitButton.addEventListener("click",getMassage);
 buttonElement.addEventListener('click',clearInput);
+console.log("ji");
